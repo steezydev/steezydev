@@ -29,6 +29,6 @@ I’m a web developer with 4+ years of experience in commercial development. I c
 I am happy to communicate, exchange knowledge, work together etc. Feel free to DM me
 <br /><br />
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<a href="https://t.me/shizo_money">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
