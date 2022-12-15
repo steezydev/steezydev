@@ -6,7 +6,7 @@ I’m a web developer with 4+ years of experience in commercial development. I c
 <h2>🏺 My values</h2>
 
 - **Discipline** - I have a strong belief that anything can be achieved. The only resource is time. The distribution of time is dictated by discipline. 
-- **People** - There is no better mechanism than a well-built team.
+- **People** - There is no mechanism as powerfull as a well-built team.
 - **Value** - You have to bring value and be valuable yourself to be fulfilled. 
 
 <h2>🧰 Toolbox</h2>       
