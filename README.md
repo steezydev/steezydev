@@ -1,4 +1,4 @@
-<img src="./public/banner.png" />
+<img src="./public/banner2.png" />
 
 <h2>🔮 About me</h2>
 I’m a web developer with 4+ years of experience in commercial development. I consider myself as a builder. I find the ability of creating value from scratch truly magnificent. My final goal is to become a master of my craft with not only coding but with a solid understanding of business, customer needs and production processes. 
