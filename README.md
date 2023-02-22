@@ -30,6 +30,6 @@ If you are looking for a dedicated and skilled web developer with a deep underst
 <br /><br />
 
 <a href="https://twitter.com/0xsteezy" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)<a/>
-<a href="https://t.me/shizo_money" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
+<a href="https://t.me/therealsteezy" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
 <a href="https://discord.com/users/253188731085783040" target="_blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<a/>
 
