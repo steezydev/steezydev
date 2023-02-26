@@ -1,7 +1,7 @@
 <img src="./public/banner2.png" />
 
 <h2>🔮 About me</h2>
-Greetings! I am a skilled web developer with over 4 years of experience in commercial development. My passion for building and creating something out of nothing has fueled my desire to master my craft in development, architecture, and business management. I aim to develop a solid understanding of customer needs and production processes, and strive to deliver unparalleled value to my clients.
+Greetings! I am a skilled web developer with over 4 years of experience in commercial development. I love building and creating from scratch, which is why I've worked hard to master my craft in development, architecture, and business management. My goal is to fully understand my clients' needs and production processes, so that I can deliver the best possible value to them.
 
 <h2>🏺 My values</h2>
 
