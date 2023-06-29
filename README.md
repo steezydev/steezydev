@@ -7,7 +7,7 @@ Hi, I am steezy! I build web and mobile apps for everyone. I dove into the codin
 
 - **Quality over quantity.** I'm a firm believer in doing fewer things but doing them really well. Quality > quantity is the rule I follow in every aspect of my life.
 - **Communication.** I love a good chat. I'm all for staying social and keeping in touch with folks from all sorts of places.
-- **Personal life.** Coding takes a big part of my life, but I always make room for my hobbies, friends and family. This is how I keep my work rolling smoothly and consistently.
+- **Balance.** Coding takes a big part of my life, but I always make room for my hobbies, friends and family. This is how I keep my work rolling smoothly and consistently.
 
 <h2>🧰 Toolbox</h2>       
 
