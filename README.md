@@ -40,4 +40,5 @@ I am open for collaboration! Feel free to DM me if you want to work together or 
 
 <a href="https://twitter.com/steezy_dev" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)<a/>
 <a href="https://t.me/therealsteezy" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
+<a href="mailto:thesteezydev@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
 
