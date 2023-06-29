@@ -35,7 +35,7 @@ Hi, I am steezy! I build web and mobile apps for everyone. I dove into the codin
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <h2>📟 Contact me</h2>
-I am open for collaboration! Feel free to DM me if you want to work together or just talk 😉
+I am open for collaboration! Feel free to DM me if you want to work together or just have a chat 😉
 <br /><br />
 
 <a href="https://twitter.com/steezy_dev" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)<a/>
