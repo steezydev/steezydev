@@ -1,7 +1,7 @@
 <img src="./public/banner.png" />
 
 <h2>🔮 About me</h2>
-Hi, I am steezy! I build web and mobile apps for everyone. I dove into the coding world back in 2018, and ever since, I've been on a mission to figure out the secret sauce that makes a user experience really pop, and then share that with everyone. I've been part of over 20 commercial projects through the years, and in 2023, I made a switch towards open-source development. It's the best way to learn, meet new people, and have a lot of fun! Come along as I build, learn, and make the code shine!
+Hi, I am Ivan! I build web and mobile apps for everyone. I dove into the coding world back in 2018, and ever since, I've been on a mission to figure out the secret sauce that makes a user experience really pop, and then share that with everyone. I've been part of over 20 commercial projects through the years, and in 2023, I made a switch towards open-source development. It's the best way to learn, meet new people, and have a lot of fun! Come along as I build, learn, and make the code shine!
 
 <h2>🏺 My values</h2>
 
