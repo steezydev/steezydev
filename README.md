@@ -2,7 +2,7 @@ Hi! I love making data-driven web apps, chat bots and APIs.
 
 I am looking for like-minded people, feel free to text me about anything on [Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white).
 
-## Fav tech
+## Fav tech rn
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
