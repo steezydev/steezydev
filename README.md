@@ -1,4 +1,6 @@
-Hi! I love making data-driven web apps, chat bots and APIs. I am looking for like-minded people, feel free to text me about anything on [Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+Hi! I love making data-driven web apps, chat bots and APIs.
+
+I am looking for like-minded people, feel free to text me about anything on [Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white).
 
 ## Fav tech
 
