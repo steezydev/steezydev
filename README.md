@@ -1,6 +1,4 @@
-Hi! I love making data-driven web apps, chat bots, APIs and automation tools.
-
-I am looking for like-minded people, feel free to reach out on [Telegram](https://t.me/whitepluscrystals).
+Hi! I love making data-intensive applications, chat bots, APIs and automation tools
 
 ## Tech I ♥
 
