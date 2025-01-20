@@ -1,4 +1,4 @@
-Hi! I love making data-intensive applications, chat bots, APIs and automation tools
+Hi! I love making data-intensive applications, chat bots, APIs, automation tools and elegant UIs
 
 ## Tech I ♥
 
